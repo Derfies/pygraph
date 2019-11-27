@@ -9,7 +9,8 @@ from .functions import (a_star_search,
                         get_connected_components, get_connected_components_as_subgraphs,
                         find_articulation_vertices, find_biconnected_components,
                         find_minimum_spanning_tree, find_minimum_spanning_tree_as_subgraph,
-                        find_minimum_spanning_forest, find_minimum_spanning_forest_as_subgraphs)
+                        find_minimum_spanning_forest, find_minimum_spanning_forest_as_subgraphs,
+                        load_cat_graph)
 
 from .helpers import (make_subgraph, merge_graphs, create_graph_from_adjacency_matrix)
 

@@ -12,3 +12,4 @@ from .spanning_tree import (find_minimum_spanning_tree, find_minimum_spanning_tr
 
 from .planarity import is_planar
 
+from .loaders import load_cat_graph
